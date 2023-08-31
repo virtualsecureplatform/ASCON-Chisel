@@ -1,0 +1,3 @@
+[submodule "thirdparties/ascon-hardware"]
+	path = thirdparties/ascon-hardware
+	url = https://github.com/ascon/ascon-hardware.git
